@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/brainblitz/static/js/main.389f4480.js",
+    "static/media/logo.svg": "/brainblitz/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/brainblitz/index.html",
+    "main.389f4480.js.map": "/brainblitz/static/js/main.389f4480.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.389f4480.js"
+  ]
+}
