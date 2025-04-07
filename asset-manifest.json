@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/brainblitz/static/css/main.10a679a5.css",
-    "main.js": "/brainblitz/static/js/main.ba4b65ef.js",
+    "main.css": "/brainblitz/static/css/main.1fb0e382.css",
+    "main.js": "/brainblitz/static/js/main.33ed3a6b.js",
     "static/media/logo.svg": "/brainblitz/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/brainblitz/index.html",
-    "main.10a679a5.css.map": "/brainblitz/static/css/main.10a679a5.css.map",
-    "main.ba4b65ef.js.map": "/brainblitz/static/js/main.ba4b65ef.js.map"
+    "main.1fb0e382.css.map": "/brainblitz/static/css/main.1fb0e382.css.map",
+    "main.33ed3a6b.js.map": "/brainblitz/static/js/main.33ed3a6b.js.map"
   },
   "entrypoints": [
-    "static/css/main.10a679a5.css",
-    "static/js/main.ba4b65ef.js"
+    "static/css/main.1fb0e382.css",
+    "static/js/main.33ed3a6b.js"
   ]
 }
