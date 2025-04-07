@@ -8,10 +8,11 @@ import Quize from './components/Quize';
 function App() {
   return (
    <>
-     <Router>
+     <Router basename='brainblitz'>
       <Header/>
       <Routes>
         <Route index element={<Home/>}/>
+        <Route path='/Home' element={<Home/>}/>
         <Route path='/Quize' element={<Quize/>}/>
       </Routes>
      </Router>

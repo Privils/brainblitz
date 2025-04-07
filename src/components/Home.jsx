@@ -35,14 +35,14 @@ const Home = () => {
     </div>
     <div className='categories'>
         <h1>focus topics</h1>
-    <p className="topics">Cartoons</p>,
-  <p className="topics">Animals</p>,
-  <p className="topics">Vehicles</p>,
-  <p className="topics">Celebrities</p>,
-  <p className="topics">Mathematics</p>,
-  <p className="topics">Music</p>,
-  <p className="topics">Film</p>,
-  <p className="topics">Mythology</p>.
+    <p className="topics">Cartoons</p>
+  <p className="topics">Animals</p>
+  <p className="topics">Vehicles</p>
+  <p className="topics">Celebrities</p>
+  <p className="topics">Mathematics</p>
+  <p className="topics">Music</p>
+  <p className="topics">Film</p>
+  <p className="topics">Mythology</p>
     </div>
 </section>
 </>
